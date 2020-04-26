@@ -3,6 +3,9 @@
 # BottomCustomDialog
 An iOS inspired bottom dialog with rounded corners
 
+
+![](Screen-Recording-2020-04-26-at-9.gif)
+
 # Setup
 Add this line in your root build.gradle at the end of repositories:
 
